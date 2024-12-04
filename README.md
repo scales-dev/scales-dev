@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">scales</h1>
+<div align="center">
+  <p>17 years old, I enjoy coding useless projects, mainly in java</p>
+  <a href="https://github.com/scales-dev?tab=repositories"><img src="https://img.shields.io/badge/Cool_Repo-FFFFFF?style=for-the-badge&logo=github&logoColor=black"></a>
+  <p>(pretend this links to a cool repo, I currently have 0 public repositories)</p>
+</div>
 
-<!--
-**scales-dev/scales-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3>Contact Me:</h3>
+  <a href="mailto:jackscales2007@outlook.com"><img src="https://img.shields.io/badge/Email-6495ED?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <p>or don't if you hate me :(</p>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>Languages I Am Learning</h3>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/refs/heads/master/icons/java.svg" width=50>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" width=50>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/refs/heads/master/icons/rust.svg" width=50>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" width=50>
+  <p>Rust and HTML are my main targets, but I am slowly learning python</p>
+</div>
