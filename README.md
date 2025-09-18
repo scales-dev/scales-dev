@@ -1,7 +1,7 @@
 <h1 align="center">scales</h1>
 <div align="center">
   <p>17 years old, I enjoy coding useless projects, mainly in java</p>
-  <a href="https://github.com/scales-dev/2d-java-game"><img src="https://img.shields.io/badge/Cool_Repo-FFFFFF?style=for-the-badge&logo=github&logoColor=black"></a>
+  <a href="https://github.com/scales-dev/Java-3D-Rendering"><img src="https://img.shields.io/badge/Cool_Repo-FFFFFF?style=for-the-badge&logo=github&logoColor=black"></a>
   <p>Sadly my only public repo as of now, I am currently working on a bigger project which is proprietary!</p>
 </div>
 
