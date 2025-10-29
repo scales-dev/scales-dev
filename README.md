@@ -2,7 +2,7 @@
 
 <h3>About Me:</h3>
 <ul>
-  <li>17 years old</li>
+  <li>Born October 2007</li>
   <li>I enjoy coding useless projects</li>
   <li>Java fanboy since 13</li>
   <li>Very particular about my code, often private my repositories I deam subpar</li>
