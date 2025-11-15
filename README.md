@@ -5,10 +5,10 @@
   <li>Born October 2007</li>
   <li>I enjoy coding useless projects</li>
   <li>Java fanboy since 13</li>
-  <li>Very particular about my code, often private my repositories I deam subpar</li>
+  <li>Very particular about my code, often private my repositories I deem subpar</li>
   <li>On the search for an apprenticeship in the computer science field</li>
-  <li>Fan of simplistic GUI design, until its oversimplified</li>
-  <li>Considering linking this on my CV but idk if it would help</li>
+  <li>Fan of simplistic GUI design until it's oversimplified</li>
+  <li>This github is linked on my CV</li>
 </ul>
 
 <h3>Contact Me:</h3>
