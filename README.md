@@ -2,7 +2,8 @@
 Software developer since March 2020, mostly in Java, as you can tell by my public repositories.
 
 ## Experience
-- I do have experience in HTML/CSS/JavaScript, TypeScript, Rust and Python, just not enough to not be embarrassed making public repositories in the languages.
+- Java, for like 6 years on hobby projects.
+- I have experience in HTML/CSS/JavaScript, TypeScript, Rust and Python, just not enough for it to not be embarrassed making public repositories in the languages.
 - For my Computer Science A Level coursework I wrote it all in markdown, because I truly believe markdown to be the easiest way to write essays.
 - Sadly, I write lots of JavaScript for work, the majority of my projects can be found on the [My Exotic Fruit](https://github.com/orgs/My-Exotic-Fruit-Work/repositories) organisation!
 
@@ -18,7 +19,7 @@ Software developer since March 2020, mostly in Java, as you can tell by my publi
 - Following on from that, I sometimes try to follow [Oxford's style manual](https://en.wikipedia.org/wiki/Hart%27s_Rules) for any documentation, which I also fail at, because I haven't read it 😄
 
 ## About Me
-- I really enjoy coding and have since suddenly found myself with far too much time to spare during lockdown.
+- I really enjoy coding and have since I suddenly found myself with far too much time to spare during lockdown.
 - If you couldn't tell from the fact I use Java for every project possible, I started by making Minecraft mods when I was 13!
 - I LOVE regex, a hobby of mine is writing the most unreadable regex imaginable, giving it a bad name and then not being able to read it the next day!
 - I really like capitalisation and exciting punctuation, but I'm told it's unprofessional... 😔
