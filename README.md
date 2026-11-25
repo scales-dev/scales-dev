@@ -14,6 +14,8 @@ Software developer since March 2020, mostly in Java, as you can tell by my publi
 ## Coding
 - I follow [Google's Java formatting guide](https://github.com/google/google-java-format) meaning I use 2 spaces instead of 4 for tabs, sorry.
 - I try my best to make sure all code I write is easily readable in the future, although I'm not sure how well I succeed in this endeavor.
+- Trying my best to follow [conventional commit messages](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13) but I often just use "fix", feat", and "chore"
+- Following on from that, I sometimes try to follow [Oxford's style manual](https://en.wikipedia.org/wiki/Hart%27s_Rules) for any documentation, which I also fail at, because I haven't read it 😄
 
 ## About Me
 - I really enjoy coding and have since suddenly found myself with far too much time to spare during lockdown.
